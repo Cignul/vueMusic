@@ -10,6 +10,8 @@ export default new Vuex.Store({
   mutations: {
 
   },
+
+  //trying to figure out how to port old app over into new format
   actions: {
 
   }
